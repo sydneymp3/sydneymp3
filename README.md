@@ -3,3 +3,4 @@
 - im interested in web development.
 - im currently learning html, css, and javascript.
 - need help with css or html? dm me on discord, @pidgeone.
+- i mainly do css for web games such as lioden and wolvden!
